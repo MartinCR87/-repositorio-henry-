@@ -1,6 +1,6 @@
 Hoja de texto editada
 
-git add.
+git add .
 
 git commit -m "hojaEditada"
 
