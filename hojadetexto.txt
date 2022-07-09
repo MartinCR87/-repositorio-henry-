@@ -1,0 +1,7 @@
+Hoja de texto editada
+
+git add.
+
+git commit -m "hojaEditada"
+
+git push
